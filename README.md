@@ -1,5 +1,7 @@
 # AI-in-software-engineering-Week3plp
 
+Streamlit app : https://2xabtibm6rkjlcpc7e2gd9.streamlit.app/#random-predictions
+
 📊 Iris & MNIST Classification using Classical ML and Deep Learning
 🧠 Week 3 Assignment – AI in Software Engineering
 This project demonstrates supervised learning techniques using both classical machine learning and deep learning frameworks. It aims to explore the strengths, use-cases, and accuracy of Scikit-learn, TensorFlow, and PyTorch across two tasks:
